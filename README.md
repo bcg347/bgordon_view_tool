@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BgordonViewTool::Renderer.copyright 'Brandon Gordon', 'All rights reserved'
+```
 
 ## Development
 
